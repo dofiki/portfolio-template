@@ -8,6 +8,8 @@ body{
     background-color: black;
     gap: 5px;
     padding: 0.6rem;
+    font-family: 'Manrope', sans-serif;
+    color: white;
  
 }
 
@@ -51,6 +53,8 @@ body{
     background-color: rgb(0, 0, 0);
     border-radius: 0.5rem;
     border: 1px solid white;
+    padding: 1rem;
+    font-weight: bold;
 }
 
 .bottomLeft{
@@ -65,6 +69,8 @@ body{
     background-color: rgb(0, 0, 0);
     border: 1px solid rgb(255, 255, 255);
     border-radius: 0.5rem;
+    padding: 1rem;
+    font-weight: bold;
 }
 
 .midContent{
@@ -78,6 +84,8 @@ body{
     background-color: rgb(0, 0, 0);
     border: 1px solid rgb(255, 255, 255);
     border-radius: 0.5rem;
+    padding: 1rem;
+    font-weight: bold;
 }
 
 .rightContent{
@@ -91,18 +99,24 @@ body{
     background-color: rgb(0, 0, 0);
     border: 1px solid rgb(255, 255, 255);
     border-radius: 0.5rem;
+    padding: 1rem;
+    font-weight: bold;
 }
 
 .discription{
     background-color: rgb(0, 0, 0);
     border: 1px solid rgb(255, 255, 255);
     border-radius: 0.5rem;
+    padding: 1rem;
+    font-weight: bold;
 }
 
 .contactHeader{
     background-color: rgb(0, 0, 0);
     border: 1px solid rgb(255, 255, 255);
     border-radius: 0.5rem;
+    padding: 1rem;
+    font-weight: bold;
 }
 
 .contactContent{
@@ -110,18 +124,23 @@ body{
     display: grid;
     grid-template-columns: 0.5fr 1.5fr;
     gap: 3px;
+    
 }
 
 .ccLeft{
     background-color: rgb(0, 0, 0);
     border: 1px solid rgb(255, 255, 255);
     border-radius: 0.5rem;
+     padding: 5px;
+    
+    
 }
 
 .ccRight{
     background-color: rgb(0, 0, 0);
     border: 1px solid rgb(255, 255, 255);
     border-radius: 0.5rem;
+    padding: 5px;
 }
 
 .content{
